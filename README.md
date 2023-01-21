@@ -1,5 +1,6 @@
 # Classifcation_projects 
-#Project - 1
+# Project - 1
+
 >> DOMAIN: Medical
 
 • CONTEXT: Medical research university X is undergoing a deep research on patients with certain conditions. University has an internal AI team.
